@@ -1,0 +1,1 @@
+print(data.encode('ascii'))
